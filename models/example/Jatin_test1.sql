@@ -1,0 +1,1 @@
+select * from raw_db.jaffle_shop.customers
